@@ -1,3 +1,14 @@
+## Installation
+
+To get started with the BreatheEsg Assignment:
+
+Clone this repository: git clone 
+Navigate to the project directory: cd 
+Install dependencies:
+npm install
+Run the application:
+npm start
+
 ## Available Scripts
 
 In the project directory, you can run:

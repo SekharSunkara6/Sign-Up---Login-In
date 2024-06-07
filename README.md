@@ -2,11 +2,11 @@
 
 To get started with the BreatheEsg Assignment:
 
-Clone this repository: git clone 
-Navigate to the project directory: cd 
-Install dependencies:
+1.Clone this repository: git clone https://github.com/SekharSunkara6/Sign-Up_Login-In.git
+2.Navigate to the project directory: cd Sign-Up_Login-In
+3.Install dependencies:
 npm install
-Run the application:
+4.Run the application:
 npm start
 
 ## Available Scripts

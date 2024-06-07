@@ -1,0 +1,45 @@
+.logo {
+    height: 64px;
+    margin: 16px;
+}
+
+.body{
+    color:#fff
+}
+
+.site-layout .site-layout-background {
+    background: #fff;
+}
+
+.ant-layout{
+    background-color: #fff;
+}
+.ant-layout-header {
+    padding: 0 24px !important;
+}
+
+.header-tabs {
+    display: flex;
+    align-items: center;
+    margin-left: 16px;
+}
+
+.header-tabs .ant-tabs-nav-list {
+    background-color: #fff;
+    border-radius: 4px;
+    padding: 4px;
+}
+
+.header-tabs .ant-tabs-tab {
+    margin: 0;
+}
+
+.header-tabs .ant-tabs-tab-btn {
+    padding: 8px 16px;
+    border-radius: 4px;
+}
+
+.header-tabs .ant-tabs-tab-active .ant-tabs-tab-btn {
+    color: #fff;
+    background-color: #00b050;
+}
